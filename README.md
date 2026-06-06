@@ -1,3 +1,11 @@
+# this is a picture of the first version 
+<img width="600" height="400" alt="v1_assembly" src="https://github.com/user-attachments/assets/01f27a4c-a27c-4635-91e1-8e07201c5538" />
+
+# this is a picture of the current version (version 3) 
+
+<img width="600" height="400" alt="v3_assembly" src="https://github.com/user-attachments/assets/6c34d943-806a-4dd2-b535-f821117a488b" />
+
+
 # Steering-wheel-controller
 A steering wheel controller to play driving games on the go 
 
