@@ -6,8 +6,8 @@
 | slide potentiometer 10pc | 1| Main controller |
 | Rotary Encoder | 1 | Steering input |
 | esp32s kit | 1 | send wireless output |
-| Push Buttons | 8 | Controls |
-
+| Push Buttons | 7 | Controls |
+| Soldering Iron  | 1 | solder the final prototy |
 
 
 ## Purchase Links
